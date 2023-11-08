@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971125934322",
+    "project_id": "cycle-tracking428",
+    "storage_bucket": "cycle-tracking428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971125934322:android:29dc8e01de96f157d5686b",
+        "android_client_info": {
+          "package_name": "com.annaraczynska.cycle_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSf67Y3VPXAYnH6eNHxzq5Yr3sGOmWWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
